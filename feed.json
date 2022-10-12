@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Shakespeare WPK",
+    "description": "",
+    "home_page_url": "https://wendy-test.github.io/digitalshakespeare2",
+    "feed_url": "https://wendy-test.github.io/digitalshakespeare2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "WPK"
+    },
+    "items": [
+    ]
+}
